@@ -1,0 +1,105 @@
+Skill Name,Curriculum Coverage (0–5),Industry Demand (0–5),Job Frequency (0–10),Expert Importance (0–5),Gap_Status
+C Programming,5,3,5,3,Aligned
+C++,5,4,7,4,Aligned
+Java,5,5,10,5,Aligned
+Python,4,5,10,5,Aligned
+JavaScript,4,5,10,5,Aligned
+TypeScript,2,5,8,5,Gap
+Data Structures,5,5,10,5,Aligned
+Algorithms,5,5,10,5,Aligned
+Object Oriented Programming,5,5,9,5,Aligned
+DBMS,5,5,9,5,Aligned
+SQL,5,5,10,5,Aligned
+MySQL,5,4,8,4,Aligned
+PostgreSQL,3,5,8,4,Gap
+MongoDB,2,5,8,4,Gap
+Oracle Database,3,4,6,3,Aligned
+Operating Systems,5,4,8,4,Aligned
+Computer Networks,5,4,8,4,Aligned
+Software Engineering,5,4,7,4,Aligned
+Computer Organization,5,3,5,3,Aligned
+Compiler Design,5,3,4,3,Aligned
+Theory of Computation,5,2,3,2,Aligned
+Discrete Mathematics,5,3,5,3,Aligned
+HTML5,4,4,7,4,Aligned
+CSS3,4,4,7,4,Aligned
+Bootstrap,3,4,6,3,Aligned
+Tailwind CSS,1,5,8,4,Gap
+React.js,2,5,10,5,Gap
+Angular,2,4,7,4,Gap
+Vue.js,1,4,6,4,Gap
+Next.js,1,5,8,5,Gap
+Node.js,2,5,9,5,Gap
+Express.js,2,5,8,4,Gap
+Spring Boot,2,5,9,5,Gap
+Django,2,4,7,4,Gap
+Flask,2,4,6,3,Gap
+REST API Development,2,5,9,5,Gap
+GraphQL,1,4,6,4,Gap
+Microservices,1,5,8,5,Gap
+Docker,1,5,8,5,Gap
+Kubernetes,0,5,7,5,Gap
+AWS Cloud,1,5,9,5,Gap
+Microsoft Azure,1,4,7,4,Gap
+Google Cloud Platform,1,4,7,4,Gap
+DevOps,1,5,8,5,Gap
+CI/CD Pipelines,1,5,8,5,Gap
+Linux Administration,2,5,7,4,Gap
+Shell Scripting,2,4,6,4,Gap
+Git,3,5,9,5,Gap
+GitHub,3,5,9,5,Gap
+Agile Methodology,3,4,6,4,Aligned
+Scrum,2,4,6,4,Gap
+Machine Learning,2,5,8,5,Gap
+Deep Learning,1,5,8,5,Gap
+Artificial Intelligence,2,5,9,5,Gap
+Generative AI,1,5,9,5,Gap
+Prompt Engineering,0,5,8,5,Gap
+Natural Language Processing,1,5,8,5,Gap
+Computer Vision,1,4,7,4,Gap
+Data Science,2,5,8,5,Gap
+Data Analytics,3,5,8,5,Gap
+Big Data,1,4,6,4,Gap
+Apache Hadoop,1,3,5,3,Gap
+Apache Spark,1,4,6,4,Gap
+Power BI,2,5,7,4,Gap
+Tableau,2,4,6,4,Gap
+Excel Analytics,4,4,7,4,Aligned
+Cyber Security,3,5,8,5,Gap
+Ethical Hacking,2,5,7,5,Gap
+Network Security,3,5,8,5,Gap
+Cryptography,3,4,6,4,Aligned
+Digital Forensics,1,4,5,4,Gap
+Penetration Testing,1,5,7,5,Gap
+Blockchain,1,4,6,4,Gap
+Smart Contracts,0,4,5,4,Gap
+Solidity,0,4,5,4,Gap
+Internet of Things,2,4,6,4,Gap
+Embedded Systems,3,3,5,3,Aligned
+Android Development,2,4,7,4,Gap
+Flutter,1,5,8,5,Gap
+React Native,1,4,7,4,Gap
+UI/UX Design,2,4,7,4,Gap
+Figma,2,5,8,4,Gap
+Software Testing,3,4,7,4,Aligned
+JUnit Testing,2,4,6,4,Gap
+Selenium Automation,1,5,8,5,Gap
+Performance Testing,1,4,6,4,Gap
+API Testing,2,5,8,5,Gap
+Postman,2,5,8,5,Gap
+Firebase,2,4,7,4,Gap
+Authentication JWT,2,5,8,5,Gap
+OAuth 2.0,1,5,7,5,Gap
+Redis,1,4,6,4,Gap
+RabbitMQ,0,4,5,4,Gap
+Apache Kafka,0,5,7,5,Gap
+Problem Solving,4,5,10,5,Aligned
+Communication Skills,3,5,10,5,Gap
+Teamwork,3,5,9,5,Gap
+Leadership,2,5,8,5,Gap
+Critical Thinking,3,5,9,5,Gap
+Time Management,3,5,8,4,Gap
+Presentation Skills,2,5,8,4,Gap
+Resume Building,2,5,8,4,Gap
+Interview Skills,2,5,9,5,Gap
+Aptitude,4,5,10,5,Aligned
